@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^9.0.2",
+    "localforage": "^1.10.0",
+    "match-sorter": "^6.3.3",
+    "mongoose": "^8.1.0",
+    "react-router-dom": "^6.21.3",
+    "sort-by": "^1.2.0"
+  }
+}
